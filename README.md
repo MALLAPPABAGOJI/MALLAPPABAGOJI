@@ -21,11 +21,12 @@
 ![OpenSTA](https://img.shields.io/badge/OpenSTA-FF7F50?style=for-the-badge)
 ![EDA Playground](https://img.shields.io/badge/EDA%20Playground-000000?style=for-the-badge)
 ## ⚙️ Embedded / Programming
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ## 🌐 Networking & Security
 ![Computer Networking](https://img.shields.io/badge/Computer%20Networking-1E90FF?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B0000?style=for-the-badge)
@@ -40,10 +41,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MALLAPPABAGOJI&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MALLAPPABAGOJI&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MALLAPPABAGOJI&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
 ![Mallappa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mallappa-bagoji&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mallappa-bagoji&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallappa-bagoji&layout=compact&theme=tokyonight)
+
 
 
 
@@ -51,9 +55,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MALLAPPABAGOJI&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mallappa-bagoji&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=MALLAPPABAGOJI&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=mallappa-bagoji&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
