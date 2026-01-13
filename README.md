@@ -43,6 +43,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=MALLAPPABAGOJI&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MALLAPPABAGOJI&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MALLAPPABAGOJI&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Mallappa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mallappa-bagoji&show_icons=true&theme=tokyonight)
+
 
 
 ### ✍️ Random Dev Quote
